@@ -1,0 +1,22 @@
+
+  body{
+      font-family: Baskerville;
+      color: whitesmoke;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.774),rgb(17, 81, 177),rgba(0, 0, 0, 0.842)), url(https://i.pinimg.com/564x/94/e6/95/94e6957c7fd0d4e14903b4d99f5317cf.jpg);
+      background-size: 50cm;
+      
+  }
+  h2{
+    font-size: 70px;
+  }
+  p{
+    font-size:30px;
+  }
+  footer{
+    font-size: 30px;
+  }
+  section {
+    padding-top: 21rem;
+  }
+
+  
